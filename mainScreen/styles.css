@@ -12,9 +12,12 @@ h1
     margin-right: 150px;
     border: 10px solid rgb(33, 5, 44);
 }
-
 textarea
 {
-    padding: 50px;
-        
+    align-content: center;
+}
+
+button
+{
+    background-color: aqua;
 }
