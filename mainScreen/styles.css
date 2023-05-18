@@ -1,23 +1,9 @@
+title
+{
+    color: chartreuse;
+}
 body
 {
-    background-color: rgb(232, 212, 241);
-}
-
-h1
-{
-    color:blueviolet;
-    background-color: aqua;
-    text-align: center;  
-    margin-left: 150px;
-    margin-right: 150px;
-    border: 10px solid rgb(33, 5, 44);
-}
-textarea
-{
-    align-content: center;
-}
-
-button
-{
-    background-color: aqua;
+    background-color: cadetblue;
+    border: 5px solid rgb(30, 133, 47);
 }
